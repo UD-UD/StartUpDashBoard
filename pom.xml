@@ -13,7 +13,7 @@
     <springsecurity.version>4.0.4.RELEASE</springsecurity.version>
     <hibernate.version>4.3.10.Final</hibernate.version>
     <mysql.connector.version>5.1.31</mysql.connector.version>
-    <jackson.version>2.5.3</jackson.version>
+    <jackson.version>2.12.3</jackson.version>
   </properties>
 
   <dependencies>
